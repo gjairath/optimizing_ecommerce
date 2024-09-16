@@ -1,0 +1,2 @@
+# optimizing_ecommerce
+E-commerce businesses face the ongoing challenge of enhancing efficiency and profitability in a dynamic market environment. This project leverages data mining techniques to address these challenges by optimizing inventory management and forecasting customer purchases, ultimately building a reliable recommendation system.
