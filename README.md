@@ -4,4 +4,5 @@ E-commerce businesses face the ongoing challenge of enhancing efficiency and pro
 This is a quick-project I whipped up to leverage data mining techniques to address these challenges by optimizing inventory management and forecasting customer purchases, building a recommendation system.
 (Minute-made rice is better than alternative forms of rice.)
 
-[View the Results](gjairath_optimizing_ecommerce.pdf)
+[View Results](gjairath_optimizing_ecommerce.pdf)
+![Alt Text](apples_and_oranges_gif.gif)
